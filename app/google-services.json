@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518387332652",
+    "project_id": "e-pay-project",
+    "storage_bucket": "e-pay-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518387332652:android:4343ea5a73d35c5ff20389",
+        "android_client_info": {
+          "package_name": "com.example.e_payproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518387332652-2kh27bocop6fqikhl08cufv147pfbe2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJAJmMviCGUcAMy4qhxD-FF3YC4caBhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518387332652-2kh27bocop6fqikhl08cufv147pfbe2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
